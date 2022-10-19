@@ -1,4 +1,4 @@
 <?php
 
-echo "Welcome to TyrellCrop Images!";
-echo "<img src=\"mycompany.png\">";
+echo "Welcome to Vinoth's Tyrell Crop";
+echo "<img src=\"TyrelCorp.jpg\">";
